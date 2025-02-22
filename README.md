@@ -7,3 +7,5 @@ I am currently a Masters student in Applied Computer Science, so each of these f
 I am in the process of uploading my backlog of solutions, going forward it should be more consistent.
 
 Files names are in yymmdd format to make it easy to find a date.
+
+All problem descriptions are the property of LeetCode and are reposted here for educational purposes.
