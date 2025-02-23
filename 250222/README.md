@@ -24,4 +24,4 @@ This is pretty straightforward thinking, and it has code smell, I am rather cert
 The previous logic is sound, but the implementation is ugly. Optimization comes from trying to do things in a more linear manner. For a level, we will always add left, unless left exists in which case we add right. We are also only going down one branch at a time in a depth first search manner, so we can keep a plot of the current branch and simply back track to the level that we might need.
 
 ## Learned
-re.findall allows for the use of capture groups to create lists of tuples that can be easily unrwapped, very helpful
+re.findall allows for the use of capture groups to create lists of tuples that can be easily unrwapped, very helpful.
