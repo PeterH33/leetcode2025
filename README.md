@@ -9,3 +9,6 @@ I have often returned to previous answers in my disorganized files for a problem
 Files names are in yymmdd format to make it easy to find a date.
 
 All problem descriptions are the property of LeetCode and are reposted here for educational purposes.
+
+## Short hiatus
+Going on a vacation and I have promised to not touch code while aaway, so the repo is on a short hiatus until I return around March 25.
